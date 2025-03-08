@@ -14,6 +14,6 @@ This is a simple **image processing** project using **OpenCV** that detects whet
 ## 🚀 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB_USERNAME/DayOrNight-ImageAnalysis.git
-   cd DayOrNight-ImageAnalysis
+   git clone https://github.com/Zahra-Gholami/DayOrNight-MinimalProjrct.git
+   cd DayOrNight-MinimalProject
 
